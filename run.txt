@@ -1,3 +1,0 @@
-first run "make"
-then when done run "make build-docker-image"
-after that just run "make docker" and u now got a iso!
