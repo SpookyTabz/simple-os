@@ -2,7 +2,9 @@
 this os is from scratch and in c++
 
 now it looks orginiced!
-![img](https://user-images.githubusercontent.com/45498671/180620883-e72d9001-6a40-48de-a495-df055679edf3.PNG)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45498671/180620883-e72d9001-6a40-48de-a495-df055679edf3.PNG" width="350">
+</p>
 
 ## Dependencies
 * [docker](https://www.docker.com/)
