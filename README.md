@@ -7,8 +7,8 @@ now it looks orginiced!
 </p>
 
 ## Dependencies
-* [docker](https://www.docker.com/)
-with docker installed u can install everything else with it
+* [docker](https://www.docker.com/) with docker installed u can install everything else with it
+* [ubuntu](https://ubuntu.com/) [ubuntu on windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
 
 ## Building
 * run make
