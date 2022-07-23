@@ -28,11 +28,8 @@ wsl-run: kernel.iso
 	(powershell.exe "taskkill /IM "VirtualBoxVM.exe" /F") || true
 	/mnt/c/Program\ Files/Oracle/VirtualBox/VirtualBoxVM.exe --startvm "simple-os" &
 
-.phony: build-docker-image docker qemu qemu-run
 build-docker-image:
 	docker build --platform linux/x86-64 -t simple-os .
+	
 docker:
 	docker run --rm -v "$$(pwd)":/simple-os --platform linux/x86-64 simple-os
-qemu: 
-	qemu-system-i386 -cdrom kernel.iso -vga virtio -m 1G
-qemu-run: docker qemu
