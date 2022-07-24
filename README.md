@@ -7,8 +7,17 @@ now it looks orginiced!
 </p>
 
 ## Dependencies
-* [docker](https://www.docker.com/) with docker installed u can install everything else with it
-* [ubuntu](https://ubuntu.com/) if you on windows [ubuntu for windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+* [docker](https://www.docker.com/)
+### Windows
+* [ubuntu](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+### Ubuntu
+* [ubuntu](https://ubuntu.com/)
+
+## Setup
+### Windows
+use ubuntu wsl or docker and run "apt install make g++ binutils libc6-dev-i386 grub-common xorriso grub-pc-bin zsh curl git -y" 
+### Ubuntu
+run "apt install make g++ binutils libc6-dev-i386 grub-common xorriso grub-pc-bin zsh curl git -y"
 
 ## Building
 ### with docker
