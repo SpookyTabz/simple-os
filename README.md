@@ -13,12 +13,6 @@ now it looks orginiced!
 ### Ubuntu
 * [ubuntu](https://ubuntu.com/)
 
-## Setup
-### Windows
-use ubuntu wsl or docker and run "apt install make g++ binutils libc6-dev-i386 grub-common xorriso grub-pc-bin zsh curl git -y" 
-### Ubuntu
-run "apt install make g++ binutils libc6-dev-i386 grub-common xorriso grub-pc-bin zsh curl git -y"
-
 ## Building
 ### with docker
 * run make
