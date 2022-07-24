@@ -13,6 +13,8 @@ now it looks orginiced!
 ### Ubuntu
 * [ubuntu](https://ubuntu.com/)
 
+after external dependencies is installed and setup look in the file called dependencies.txt
+
 ## Building
 ### with docker
 * run make
