@@ -9,7 +9,7 @@ now it looks orginiced!
 ## Dependencies
 * [docker](https://www.docker.com/)
 ### Windows
-* [ubuntu](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+* [ubuntu for windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
 ### Ubuntu
 * [ubuntu](https://ubuntu.com/)
 
